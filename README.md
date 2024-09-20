@@ -1,2 +1,2 @@
 # TradingSystem1
-Testing API de IB w TWS
+Testing API from IB w TWS
