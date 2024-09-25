@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./IBJts/source/pythonclient"
+        "./IBJts/source/pythonclient",
+        "./venv/Lib/site-packages/lightweight_charts"
     ]
 }
